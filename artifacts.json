@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DuncanCarlmark/artifact-directory-template",
-    "project-repository": "https://github.com/DuncanCarlmark/DSC180b-Capstone",
+    "this-repository": "https://github.com/DuncanCarlmark/artifact-directory-template.git",
+    "project-repository": "https://github.com/DuncanCarlmark/DSC180b-Capstone.git",
     "dockerhub-repository": "duncancarlmark/dsc180b-checkpoint:latest",
     "project-website-url": "http://bridgingthegapwithmusic.com/",
-    "project-website-code": "https://github.com/DuncanCarlmark/capstone-website"
+    "project-website-code": "https://github.com/DuncanCarlmark/capstone-website.git"
 }
