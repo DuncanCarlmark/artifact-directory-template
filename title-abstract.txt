@@ -1,5 +1,19 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Bridging the Gap: Solving Music Disputes with Recommendation Systems
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Many have probably found themselves in an uncomfortable conversation in which a parent is questioning why the song playing 
+over a bedroom speaker is so loud, repetitive, or profane. If someone has never had such a conversation, at the very least 
+they have probably made a conscious decision to refrain from playing a certain genre or artist when their parents are around. 
+Knowing what music to play in these situations does not have to be an elaborate, stressful process. In fact, finding appropriate 
+songs can be made quite simple with the help of recommendation systems.
+
+Our solution to this issue actually consists of two recommendation systems that function in similar ways. The first takes music 
+that parents enjoy and recommends it to their children. The second takes music that children enjoy and recommends it to their 
+parents. Both these recommendation systems create their own individual Spotify playlists that try to “bridge the gap” between 
+the music tastes of parents and their children. Through user testing and user interviews we found that our recommenders had mixed 
+success in creating playlists that could be listened to by children and their parents. The success of our recommendations seemed 
+to be largely correlated with the degree of inherent similarity between the music tastes of children and their parents. So while 
+our solution is not perfect, in situations where overlap between parents and children exist, our recommender can successfully 
+“bridge the gap”.
+
